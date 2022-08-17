@@ -1,3 +1,32 @@
+h1 {
+    text-decoration: underline;
+}
+
+.link {
+    color: brown;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+h3 {
+    color: gray;
+    font-weight: bold;
+}
+
 li {
-    color: green;
+    font-weight: bold;
+}
+
+.return {
+    color: brown;
+    font-weight: bold;
+}
+
+.return:hover {
+    font-size: 18px;
+    color: black;
 }
